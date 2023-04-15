@@ -1,3 +1,6 @@
+#include<bits/stdc++.h>
+using namespace std;
+#define ll long long
 //GFG QUESTION SOLUTION
 class Solution{
 public:
